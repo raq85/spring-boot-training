@@ -1,0 +1,1 @@
+docker run --rm --name spring-demo-container  -p 7070:7070 -dti spring-demo-image
